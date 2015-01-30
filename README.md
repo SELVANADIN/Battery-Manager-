@@ -1,2 +1,2 @@
-# Battery-Manager-
+# Battery Manager
 Android Project 
